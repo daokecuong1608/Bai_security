@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bai_12_XD_CRUD_API_Quan_ly_sinh_vien/Bai_12_XD_CRUD_API_Quan_ly_sinh_vien.iml" filepath="$PROJECT_DIR$/Bai_12_XD_CRUD_API_Quan_ly_sinh_vien/Bai_12_XD_CRUD_API_Quan_ly_sinh_vien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Bai_13_Spring Data JPA.iml" filepath="$PROJECT_DIR$/.idea/Bai_13_Spring Data JPA.iml" />
+    </modules>
+  </component>
+</project>
